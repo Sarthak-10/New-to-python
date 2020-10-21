@@ -1,0 +1,4 @@
+from math import *
+
+print("This is my first python program")
+print("Please help me out how to find a sqrt")
